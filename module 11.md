@@ -178,6 +178,7 @@ printf("%d",sum);
 }
 ```
 Output:
+
 ![Screenshot 2025-06-01 134052](https://github.com/user-attachments/assets/5aa98ca6-60fb-4789-8520-55e3e01fab8f)
 
 
