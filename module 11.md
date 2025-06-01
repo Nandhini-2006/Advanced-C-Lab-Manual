@@ -39,6 +39,7 @@ int n1,n2,n3,n4,greater; scanf("%d%d%d%d",&n1,&n2,&n3,&n4); greater=max_of_four(
 }
 ```
 Output:
+
 ![Screenshot 2025-06-01 133920](https://github.com/user-attachments/assets/198af384-b2bd-472b-ac58-46ee229a7555)
 
 
@@ -93,6 +94,7 @@ calculate_the_max(n,k);
 }
 ```
 Output:
+
 ![Screenshot 2025-06-01 133951](https://github.com/user-attachments/assets/0557ad4a-be44-4394-bbad-39917e8a9cff)
 
 
@@ -138,6 +140,7 @@ int ppshelno; scanf("%d",&ppshelno); printf("%d",nobookarr[ppshelno]);
 }
 ```
 Output:
+
 ![Screenshot 2025-06-01 134018](https://github.com/user-attachments/assets/d9a53011-831b-4a3b-9ee5-1d7589e5a463)
 
 
