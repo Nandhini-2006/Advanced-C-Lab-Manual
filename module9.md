@@ -72,7 +72,7 @@ Algorithm:
 4.	Call the display function and perform other queue operations as needed.
  
 Program:
-
+```
 char queue[50];
 int rear=-1, front=-1;
 void display()
@@ -87,7 +87,7 @@ void display()
         printf("%c\n",queue[i]);
     }
 }
-
+```
 Output:
 
 ![Screenshot 2025-06-01 131538](https://github.com/user-attachments/assets/73d39b55-239e-4ce8-b607-b89d7ba22569)
